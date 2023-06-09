@@ -74,7 +74,7 @@ void paraHavalee(int *bakiye){
 int main() {
 	
 	enum Islem islem;
-	int bakiye =1000;
+	int bakiye =10000;
 	bool kartIadeEdilsinMi = false;
 	
 	hosgeldinEkrani();
